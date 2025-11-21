@@ -133,42 +133,43 @@ Dashboard	Company Detail
 
 ## 📸 App Screenshots
 
-Below are some UI previews of **Ash Job Scout**, showcasing the modern, minimal, and AI-powered workflow.
+Below is a preview of the UI for **Ash Job Scout**, showcasing its clean and modern design.
 
 ---
 
 ### 🟣 Home / Search Page
-![Home](assets/screenshots/home.png)
+<img src="assets/screenshots/home.png" width="100%" />
 
 ---
 
 ### 🟦 Market Intelligence Overview
-![Market Intelligence](assets/screenshots/market.png)
+<img src="assets/screenshots/market.png" width="100%" />
 
 ---
 
 ### 🟧 Company List View
-![Company List](assets/screenshots/company_list.png)
+<img src="assets/screenshots/company_list.png" width="100%" />
 
 ---
 
 ### 🟩 Company Expanded View
-![Company Expanded](assets/screenshots/company_expanded.png)
+<img src="assets/screenshots/company_expanded.png" width="100%" />
 
 ---
 
 ### 🟡 Working Board
-![Working Board](assets/screenshots/working_board.png)
+<img src="assets/screenshots/working_board.png" width="100%" />
 
 ---
 
 ### 🟠 Company Profile View
-![Company Profile](assets/screenshots/company_profile.png)
+<img src="assets/screenshots/company_profile.png" width="100%" />
 
 ---
 
 ### 🔵 LinkedIn Job Scout Mode
-![LinkedIn Mode](assets/screenshots/linkedin.png)
+<img src="assets/screenshots/linkedin.png" width="100%" />
+
 
 
 
