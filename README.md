@@ -114,10 +114,7 @@ The app will be available at:
 👉 http://localhost:5173/
 
 📸 Screenshots
-(Replace these with real screenshots later — GitHub supports drag-and-drop)
-
 Dashboard	Company Detail
-
 🚀 Future Enhancements
  Chrome Extension version
 
@@ -130,9 +127,6 @@ Dashboard	Company Detail
  AI recommendation engine
 
  ## 📸 App Screenshots
-
-## 📸 App Screenshots
-
 Below is a preview of the UI for **Ash Job Scout**, showcasing its clean and modern design.
 
 ---
