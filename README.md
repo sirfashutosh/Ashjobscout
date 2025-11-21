@@ -113,8 +113,42 @@ npm run dev
 The app will be available at:
 👉 http://localhost:5173/
 
+```
 📸 Screenshots
 Dashboard	Company Detail
+
+### 🟣 Home / Search Page
+<img src="assets/screenshots/home.png" width="100%" />
+
+---
+
+### 🟦 Market Intelligence Overview
+<img src="assets/screenshots/market.png" width="100%" />
+
+---
+
+### 🟧 Company List View
+<img src="assets/screenshots/company_list.png" width="100%" />
+
+---
+
+### 🟩 Company Expanded View
+<img src="assets/screenshots/company_expanded.png" width="100%" />
+
+---
+
+### 🟡 Working Board
+<img src="assets/screenshots/working_board.png" width="100%" />
+
+---
+
+### 🟠 Company Profile View
+<img src="assets/screenshots/company_profile.png" width="100%" />
+
+---
+
+### 🔵 LinkedIn Job Scout Mode
+<img src="assets/screenshots/linkedin.png" width="100%" />
 🚀 Future Enhancements
  Chrome Extension version
 
