@@ -129,5 +129,62 @@ Dashboard	Company Detail
 
  AI recommendation engine
 
+ ## 📸 App Screenshots
+
+Ash Job Scout is a clean and modern AI-powered job scouting platform designed to scan YC & LinkedIn roles and help users find highly relevant opportunities.
+
+---
+
+### 🟣 **Home / Search Page**
+The main AI role search interface with Y Combinator + LinkedIn toggle and gradient search bar.
+
+![Home Search](/assets/screenshots/ash-job-scout-1.png)
+
+---
+
+### 🟦 **Market Intelligence Overview**
+Displays distribution of engineering roles vs. other categories based on the scanned result set.
+
+![Market Overview](/assets/screenshots/ash-job-scout-2.png)
+
+---
+
+### 🟧 **Company Insights – Listing View**
+Shows all scanned companies, enrichment tags, relevance, and extracted job roles.
+
+![Company List](/assets/screenshots/ash-job-scout-3.png)
+
+---
+
+### 🟩 **Company Details – Expanded Role Breakdown**
+When a company is expanded, detailed job roles, salaries, and tags are displayed.
+
+![Company Expand](/assets/screenshots/ash-job-scout-4.png)
+
+---
+
+### 🟡 **Working Board**
+A focused workspace where opportunities are processed one at a time.
+
+![Working Board](/assets/screenshots/ash-job-scout-5.png)
+
+---
+
+### 🟠 **Company Profile View**
+A deeper dive including website, batch, company size, headquarters, tags, and active roles.
+
+![Company Profile](/assets/screenshots/ash-job-scout-6.png)
+
+---
+
+### 🔵 **LinkedIn Job Scout Mode**
+Allows scanning LinkedIn roles with the same AI-powered workflow.
+
+![LinkedIn Mode](/assets/screenshots/ash-job-scout-7.png)
+
+---
+
+
+
 👨‍💻 Author
 Ash (No-code Expert level developer building automated intelligence tools)
