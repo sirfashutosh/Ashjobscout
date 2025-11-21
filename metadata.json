@@ -1,0 +1,5 @@
+{
+  "name": "Ash Job Scout",
+  "description": "Extracts and visualizes Y Combinator company and job listings from URLs or text using Gemini AI.",
+  "requestFramePermissions": []
+}
