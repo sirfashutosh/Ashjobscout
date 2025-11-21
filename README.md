@@ -126,7 +126,7 @@ Dashboard	Company Detail
 
  AI recommendation engine
 
- ## 📸 App Screenshots
+ ## 📸 
 Below is a preview of the UI for **Ash Job Scout**, showcasing its clean and modern design.
 
 ---
