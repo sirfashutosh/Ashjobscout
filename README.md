@@ -131,58 +131,45 @@ Dashboard	Company Detail
 
  ## 📸 App Screenshots
 
-Ash Job Scout is a clean and modern AI-powered job scouting platform designed to scan YC & LinkedIn roles and help users find highly relevant opportunities.
+## 📸 App Screenshots
+
+Below are some UI previews of **Ash Job Scout**, showcasing the modern, minimal, and AI-powered workflow.
 
 ---
 
-### 🟣 **Home / Search Page**
-The main AI role search interface with Y Combinator + LinkedIn toggle and gradient search bar.
-
-![Home Search](/assets/screenshots/ash-job-scout-1.png)
+### 🟣 Home / Search Page
+![Home](assets/screenshots/home.png)
 
 ---
 
-### 🟦 **Market Intelligence Overview**
-Displays distribution of engineering roles vs. other categories based on the scanned result set.
-
-![Market Overview](/assets/screenshots/ash-job-scout-2.png)
+### 🟦 Market Intelligence Overview
+![Market Intelligence](assets/screenshots/market.png)
 
 ---
 
-### 🟧 **Company Insights – Listing View**
-Shows all scanned companies, enrichment tags, relevance, and extracted job roles.
-
-![Company List](/assets/screenshots/ash-job-scout-3.png)
+### 🟧 Company List View
+![Company List](assets/screenshots/company_list.png)
 
 ---
 
-### 🟩 **Company Details – Expanded Role Breakdown**
-When a company is expanded, detailed job roles, salaries, and tags are displayed.
-
-![Company Expand](/assets/screenshots/ash-job-scout-4.png)
+### 🟩 Company Expanded View
+![Company Expanded](assets/screenshots/company_expanded.png)
 
 ---
 
-### 🟡 **Working Board**
-A focused workspace where opportunities are processed one at a time.
-
-![Working Board](/assets/screenshots/ash-job-scout-5.png)
+### 🟡 Working Board
+![Working Board](assets/screenshots/working_board.png)
 
 ---
 
-### 🟠 **Company Profile View**
-A deeper dive including website, batch, company size, headquarters, tags, and active roles.
-
-![Company Profile](/assets/screenshots/ash-job-scout-6.png)
+### 🟠 Company Profile View
+![Company Profile](assets/screenshots/company_profile.png)
 
 ---
 
-### 🔵 **LinkedIn Job Scout Mode**
-Allows scanning LinkedIn roles with the same AI-powered workflow.
+### 🔵 LinkedIn Job Scout Mode
+![LinkedIn Mode](assets/screenshots/linkedin.png)
 
-![LinkedIn Mode](/assets/screenshots/ash-job-scout-7.png)
-
----
 
 
 
