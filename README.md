@@ -1,106 +1,86 @@
-Ash Job Scout – YC Job Intelligence App
+<div align="center">
+  
+# 🚀 **Ash Job Scout**
+### *AI-Powered YC Job Intelligence App*
 
-A smart, AI-powered dashboard that scouts YC startup companies, extracts founders & roles, and helps you apply faster and smarter.
+A smart dashboard that scans Y Combinator startups, extracts founders & open roles, and helps you apply faster and smarter.
 
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![React](https://img.shields.io/badge/React-18-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
+![Vite](https://img.shields.io/badge/Vite-Bundler-purple)
+![Gemini](https://img.shields.io/badge/Gemini-AI-orange)
 
-🧠 What This App Does
+<br/>
 
-Ash Job Scout is a personal YC job-hunting assistant that automates everything:
+<img width="650" src="https://via.placeholder.com/1200x350.png?text=Ash+Job+Scout+Banner+(Replace+with+Screenshot)" />
 
-You paste any Y Combinator company link
+</div>
 
-The app automatically fetches:
+---
 
-✅ Company Name
+## 📌 **Overview**
 
-✅ Industry
+**Ash Job Scout** is a personal YC startup explorer designed to make your job search smarter.  
+Paste any YC company link → the app extracts all the important details for you:
 
-✅ Website
+- ✅ Company Name  
+- ✅ Industry  
+- ✅ Website  
+- ⚡ Founder Name(s)  
+- ⚡ Open Job Positions  
 
-⚡ Founder Name(s)
+AI (Gemini) then generates summaries, insights, and recruiter-ready notes automatically.
 
-⚡ Open job roles
+---
 
-Gemini AI processes the extracted data and returns neatly structured insights.
+## ✨ **Features**
 
-You can save results, track progress, and export the data.
+### 🔍 **1. YC Data Extraction**
+Auto-scrapes company details from YC.
 
-It is built for people who want a super-fast, automated way to browse YC startups and evaluate job opportunities.
+### 🤖 **2. Gemini AI Summary**
+Explains the company, products, founders & best matching roles.
 
-⭐ Key Features
-🔍 1. YC Company Data Extraction
+### 📊 **3. Dashboard & Progress Tracking**
+Track explored companies, your interest level, and job suitability.
 
-Scans YC company pages and extracts all relevant details.
+### 📥 **4. Export Options**
+Download company insights as text, JSON, or CSV.
 
-🤖 2. AI-Generated Summary
+### 🧩 **5. Modular UI**
+Built with clean React components for easy customization.
 
-Uses Gemini AI (geminiService.ts) to:
+---
 
-Summarize company purpose
+## 🧱 **Tech Stack**
 
-Highlight relevant open roles
+| Category | Technology |
+|---------|-------------|
+| Frontend | React (TypeScript) |
+| AI | Gemini API |
+| Build Tool | Vite |
+| State/Data | Custom Utilities |
+| UI | CSS + React Components |
 
-Suggest how you can contribute
+---
 
-📊 3. Job Stats Dashboard
+## 📂 **Project Structure**
 
-Interactive job history and status indicators via:
-
-JobStats.tsx
-
-ProgressBar.tsx
-
-WorkingBoard.tsx
-
-🧩 4. Modular Component Architecture
-
-Clean React components:
-
-CompanyCard.tsx
-
-CompanyDetail.tsx
-
-SearchForm.tsx
-
-DownloadModal.tsx
-
-Sidebar.tsx
-
-Header.tsx
-
-Login.tsx
-
-📥 5. Export & Save
-
-Export data as CSV or text from the modal.
-
-⚡ 6. Built with Vite + TypeScript
-
-Ultra-fast development experience.
-
-🏗️ Tech Stack
-Category	Tech
-Frontend	React, TypeScript
-Build Tool	Vite
-AI	Gemini API
-Styling	CSS / Tailwind (if added)
-Utilities	Custom hooks + Helpers
-📂 Folder Structure
 ash-job-scout/
 │
 ├── components/
-│   ├── Header.tsx
-│   ├── SearchForm.tsx
-│   ├── CompanyCard.tsx
-│   ├── CompanyDetail.tsx
-│   ├── ProgressBar.tsx
-│   ├── JobStats.tsx
-│   ├── WorkingBoard.tsx
-│   ├── Sidebar.tsx
-│   └── DownloadModal.tsx
+│ ├── Header.tsx
+│ ├── SearchForm.tsx
+│ ├── CompanyCard.tsx
+│ ├── CompanyDetail.tsx
+│ ├── ProgressBar.tsx
+│ ├── JobStats.tsx
+│ ├── WorkingBoard.tsx
+│ └── DownloadModal.tsx
 │
 ├── services/
-│   ├── geminiService.ts
+│ └── geminiService.ts
 │
 ├── utils.ts
 ├── types.ts
@@ -108,58 +88,46 @@ ash-job-scout/
 ├── index.tsx
 ├── index.html
 ├── package.json
-├── vite.config.ts
-├── tsconfig.json
-├── .env.local
-├── .gitignore
-└── README.md
+└── vite.config.ts
 
-⚙️ Setup & Installation
-1. Clone the repository
-git clone https://github.com/<your-username>/ash-job-scout.git
-cd ash-job-scout
+yaml
+Copy code
 
-2. Install dependencies
+---
+
+## 🛠️ **Getting Started**
+
+### **1. Install Dependencies**
+```bash
 npm install
+2. Add Your Gemini API Key
+Create .env.local:
 
-3. Add your Gemini API key
-
-Inside .env.local:
-
+ini
+Copy code
 VITE_GEMINI_API_KEY=your_key_here
-
-4. Run the app
+3. Run the App
+bash
+Copy code
 npm run dev
-
-
-Your app will start at:
-
+The app will be available at:
 👉 http://localhost:5173/
 
-📸 Screenshots (Add later)
-/screenshots
-  - dashboard.png
-  - company_details.png
-  - extraction_flow.gif
+📸 Screenshots
+(Replace these with real screenshots later — GitHub supports drag-and-drop)
+
+Dashboard	Company Detail
 
 🚀 Future Enhancements
-
  Chrome Extension version
 
  Auto-apply workflow
 
- LinkedIn job integration
+ LinkedIn integration
 
- Multi-source scraping (Wellfound, RemoteOK, YCW23 pages)
+ Multi-platform scraping (Wellfound, RemoteOK)
 
- Export to Google Sheets
+ AI recommendation engine
 
-📄 License
-
-MIT License. Use freely.
-
-🎤 Author
-
-Ash
-Full-stack Engineer & Automation Architect
-(You can add your LinkedIn/GitHub link)
+👨‍💻 Author
+Ash (No-code Expert level developer building automated intelligence tools)
